@@ -1,0 +1,11 @@
+git hub bisa digunakan sbg showcase atau portofolio
+contoh :
+kita seorang web dev biasa pake githhub
+data science menyimpan portofolio di github 
+- harus mendaftarkan atau sign up github
+
+git hub tdak mengizinkan folder yg tidak ada isinya.
+git hub menekankan hanya menyimpan coding.
+jika ada data lebih baik di buat link untuk download di google drive
+
+Buat Repository pake SSH
