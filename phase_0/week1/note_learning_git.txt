@@ -9,3 +9,5 @@ git hub menekankan hanya menyimpan coding.
 jika ada data lebih baik di buat link untuk download di google drive
 
 Buat Repository pake SSH
+
+ada perubahan
